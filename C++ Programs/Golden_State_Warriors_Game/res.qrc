@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Star Wars Pad'me blaster pistol fire sound effect 2.mp3</file>
+        <file>The Full Trolol Song ( HD ).mp3</file>
+        <file>You Suck - Vanoss Sound Effects.mp3</file>
+        <file>Lebron James Kid (mp3cut.net).mp3</file>
+        <file>klayaudio.mp3</file>
+        <file>klayaudio1.mp3</file>
+        <file>E-40 - Choices (Yup) --WARRIORS VERSION--.mp3</file>
+        <file>Game Over Yeah (HD).mp3</file>
+        <file>Stephen Curry Game-Winner - Warriors vs Thunder - February 27, 2016 - NBA 2015-16 Season (mp3cut.net).mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>emoji.png</file>
+        <file>steph_curry.png</file>
+        <file>westbrook.png</file>
+        <file>kevindurant.jpg</file>
+        <file>Warriors.png</file>
+        <file>lebron.jpg</file>
+        <file>basketball.png</file>
+        <file>klay.jpg</file>
+        <file>hoop.jpg</file>
+    </qresource>
+</RCC>
