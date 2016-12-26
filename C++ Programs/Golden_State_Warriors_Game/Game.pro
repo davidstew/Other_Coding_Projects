@@ -40,7 +40,7 @@ HEADERS  += \
     basketball.h \
     hoop.h
 
-FORMS    += mainwindow.ui
+FORMS    +=
 
 RESOURCES += \
     res.qrc
